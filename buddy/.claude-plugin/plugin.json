@@ -1,0 +1,1 @@
+{ "name": "buddy", "version": "0.1.0", "description": "A little animated block critter above the prompt that sits, blinks, looks around and dances.", "types": "./types/index.d.ts" }
